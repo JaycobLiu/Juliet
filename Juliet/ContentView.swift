@@ -1,9 +1,11 @@
-//
+/*
 //  ContentView.swift
 //  Juliet
 //
 //  Created by Jaycob liu kaiwen on 31/8/26.
 //
+//come to student corner when ur free on tues and thurs
+ill be there*/
 
 import SwiftUI
 
